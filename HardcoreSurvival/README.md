@@ -16,7 +16,7 @@ This allows for the server to be even more challenging by not allowing players t
 HardcoreSurvival only has one command associated with it
 - **/setbase**
   - This will store the players currently location as their base, which they can then use the compass to find again
-  - requires *hardcore.setbase* permission.
+  - Requires *hardcore.setbase* permission.
   
 ### Other permissions
 - *hardcore.noban*
