@@ -18,8 +18,8 @@ GriefPreventionPvP adds several new commands which enhance the claiming system.
 - **/allowenter [player]**
   - This command will allow a player who was barred from entering a claim with /eject to enter it again. 
   - This command also uses the *griefprevention.eject* node.
-  - 
-###Misc
+
+### Misc
 
 [Download link!](https://github.com/10becja/MinecraftPlugins/blob/master/GriefPreventionPVP/GriefPrevention.jar?raw=true)  
 
