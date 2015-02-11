@@ -26,3 +26,6 @@ GriefPreventionPvP adds several new commands which enhance the claiming system.
 [GriefPreventionPVP repository](https://github.com/10becja/GriefPreventionPVP)
 
 Found a bug? Please let me know [here!](https://github.com/10becja/GriefPreventionPVP/issues)
+
+Come play minecraft with us at [play.minecraft.dk!](minecraft.dk)
+
