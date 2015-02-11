@@ -28,6 +28,7 @@ This plugin allows players to change their status from PvP to PvE and back again
 - **/togglepvpreset**
   - Resets a players cool down timer
   - Requires *togglepvp.admin*
+  - Aliases: **/tpvpr**
   
 ###Dependencies
 - TogglePvP requires [iTag](http://www.spigotmc.org/threads/itag.11899/)
