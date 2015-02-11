@@ -21,3 +21,12 @@ HardcoreSurvival only has one command associated with it
 ### Other permissions
 - *hardcore.noban*
   - This allows players to be able to die without being banned.
+  
+  
+[Download link!](https://github.com/10becja/MinecraftPlugins/blob/master/HardcoreSurvival/HardcoreSurvival.jar?raw=true)
+
+[HardcoreSurvival repository](https://github.com/10becja/HardcoreSurvival)
+
+Found an issue or want to request a feature? Let me know [here!](https://github.com/10becja/HardcoreSurvival/issues)
+
+Come play minecraft with us at [play.minecraft.dk!](minecraft.dk)
