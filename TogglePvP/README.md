@@ -42,6 +42,7 @@ This plugin allows players to change their status from PvP to PvE and back again
 
 - Every once in a while, a player will not be removed from cooldown list when they should and have a negative remaining time.
 - Using /togglepvp on another player does not appear to work when run from a sign with the plugin CommandSigns
+- Admin override has broken any form of giving/recieving damage with players with that permission
 
 ### Misc
 
