@@ -10,4 +10,4 @@ Solution? Next time they are logged in, if they are stuck in a portal they will 
 
 [AntiPortalTrap repository](https://github.com/10becja/AntiPortalTrap)
 
-Found a bug? Please let me know [here!](https://github.com/10becja/AntiPortalTrap/issues)
+Found a bug or want to request a feature? Please let me know [here!](https://github.com/10becja/AntiPortalTrap/issues)
