@@ -56,7 +56,7 @@ Permissions needed for commands are listed above.
 ###Upcoming features
 
 - <strike>I plan on adding a command to view remaining cool down time</strike> done
-- <stike>I'm currently working on a way for players with *togglepvp.admin* to use pvp whenever they want, despite their settings</strike> done
+- <strike>I'm currently working on a way for players with *togglepvp.admin* to use pvp whenever they want, despite their settings</strike> done
 
 ###Known Issues
 
