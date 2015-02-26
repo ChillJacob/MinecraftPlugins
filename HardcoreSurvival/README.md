@@ -17,10 +17,16 @@ HardcoreSurvival only has one command associated with it
 - **/setbase**
   - This will store the players currently location as their base, which they can then use the compass to find again
   - Requires *hardcore.setbase* permission.
+- **/hardcorereload**
+  - Reloads the plugins configuration without having to restart the server
+  - Requires *hardcore.reload* permission.
+  - Aliases: /hcr
   
 ### Other permissions
 - *hardcore.noban*
   - This allows players to be able to die without being banned.
+- *hardcore.notrack*
+  - Prevents a player from being tracked with compasses.
   
 ###Misc
 [Download link!](https://github.com/10becja/MinecraftPlugins/blob/master/HardcoreSurvival/HardcoreSurvival.jar?raw=true)
