@@ -6,7 +6,7 @@ Every so often (especially if you have some sort of grief prevention plugin) a p
 
 Solution? Next time they are logged in, if they are stuck in a portal they will be transported to spawn. This does require that your players have access to a /spawn command (eventually I'll make this a little more robust, but it's not very high on my priorities list)
 
-[Download link!](https://github.com/10becja/MinecraftPlugins/blob/master/AntiPortalTrap/AntiPortalTrap.jar?raw=true)  
+[Download link!](https://github.com/10becja/MinecraftPlugins/raw/master/AntiPortalTrap/AntiPortalTrap.jar)  
 
 [AntiPortalTrap repository](https://github.com/10becja/AntiPortalTrap)
 
