@@ -24,7 +24,7 @@ GriefPreventionPvP adds several new commands which enhance the claiming system.
 
 ### Misc
 
-[Download link!](https://github.com/10becja/MinecraftPlugins/blob/master/GriefPreventionPVP/GriefPrevention.jar?raw=true)  
+[Download link!](https://github.com/10becja/MinecraftPlugins/raw/master/GriefPreventionPVP/GriefPrevention.jar)  
 
 [GriefPreventionPVP repository](https://github.com/10becja/GriefPreventionPVP)
 
