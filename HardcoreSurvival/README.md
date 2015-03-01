@@ -12,7 +12,7 @@ Another feature of this plugin is that it alters the way the compass works.
 
 This allows for the server to be even more challenging by not allowing players to teleport or /home and such.
 
-[Optional Download](https://github.com/10becja/MinecraftPlugins/blob/master/HardcoreSurvival/HardcoreSurvivalListener.jar?raw=true) This addon can be used to alert players on other servers (using bungee) that a player has died. It requires [CommandSync](http://www.spigotmc.org/resources/commandsync.115/) to run.
+[Optional Download](https://github.com/10becja/MinecraftPlugins/raw/master/HardcoreSurvival/HardcoreSurvivalListener.jar) This addon can be used to alert players on other servers (using bungee) that a player has died. It requires [CommandSync](http://www.spigotmc.org/resources/commandsync.115/) to run.
 
 ### Commands
 HardcoreSurvival only has one command associated with it
@@ -31,7 +31,7 @@ HardcoreSurvival only has one command associated with it
   - Prevents a player from being tracked with compasses.
   
 ###Misc
-[Download link!](https://github.com/10becja/MinecraftPlugins/blob/master/HardcoreSurvival/HardcoreSurvival.jar?raw=true)
+[Download link!](https://github.com/10becja/MinecraftPlugins/raw/master/HardcoreSurvival/HardcoreSurvival.jar)
 
 [HardcoreSurvival repository](https://github.com/10becja/HardcoreSurvival)
 
