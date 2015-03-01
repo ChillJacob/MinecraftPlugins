@@ -35,7 +35,7 @@ It's very important to configure this plugin, otherwise it won't work.
 
 
 ###Misc
-[Download link!](https://github.com/10becja/MinecraftPlugins/blob/master/RandomTP/RandomTP.jar?raw=true)
+[Download link!](https://github.com/10becja/MinecraftPlugins/raw/master/RandomTP/RandomTP.jar)
 
 [HardcoreSurvival repository](https://github.com/10becja/RandomTP)
 
