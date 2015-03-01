@@ -64,7 +64,7 @@ Permissions needed for commands are listed above.
 
 ### Misc
 
-[Download link!](https://github.com/10becja/MinecraftPlugins/blob/master/TogglePvP/TogglePvP.jar?raw=true)  
+[Download link!](https://github.com/10becja/MinecraftPlugins/raw/master/TogglePvP/TogglePvP.jar)  
 
 [TogglePvP repository](https://github.com/10becja/TogglePvP)
 
