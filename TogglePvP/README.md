@@ -4,13 +4,14 @@ This plugin is based off of [pvpcontrol](http://dev.bukkit.org/bukkit-plugins/pv
 
 ###What it does
 
-This plugin allows players to change their status from PvP to PvE and back again. It prevents almost any form of direct damage between players unless they are both set to PvP. This includes harmful and poison splash potions and arrows. **This plugin requires [iTag](http://www.spigotmc.org/threads/itag.11899/)**
+This plugin allows players to change their status from PvP to PvE and back again. It prevents almost any form of direct damage between players unless they are both set to PvP. This includes harmful and poison splash potions and arrows.
 
 ###Plugin Features
 
 - Colors players nameplate and their name on the TAB list based off their status
   - Red = PvP
   - Green = PvE
+  - You can customize the color in the config
   
 - Allows for PvP in the Nether and the End regardless of player status
   - These areas are meant to be more dangerous than the regular overworld, however you can disable this in the config
@@ -42,25 +43,22 @@ This plugin allows players to change their status from PvP to PvE and back again
   - Players with *togglepvp.admin* can use the **list** argument to view a list of everyone with a timer
   - Requires *togglepvp.player* to use it on yourself, and *togglepvp.admin* to use it on others
   - Aliases: **/tpvpt**, **/tpvptime** 
-  
+
+- **/lockpvp <player> <true|false>**
+  - Requires *togglepvp.lock* permission
+  - Allows you to lock a player in PvP or PvE mode
+  - Can be used on offline players.
+
+- **/unlockpvp <player>**
+  - Also requires *togglepvp.lock*
+  - Unlocks a players status and allows them to toggle again
+
 ###Permissions
 
 Permissions needed for commands are listed above.
 
 - *togglepvp.admin*
   - In addition to the commands above, this permission also allows the player to damage anyone, regardless of their status
-  
-###Dependencies
-- TogglePvP requires [iTag](http://www.spigotmc.org/threads/itag.11899/)
-  
-###Upcoming features
-
-- <strike>I plan on adding a command to view remaining cool down time</strike> done
-- <strike>I'm currently working on a way for players with *togglepvp.admin* to use pvp whenever they want, despite their settings</strike> done
-
-###Known Issues
-
-- Using /togglepvp on another player does not appear to work when run from a sign with the plugin CommandSigns
 
 ### Misc
 
