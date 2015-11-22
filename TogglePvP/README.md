@@ -44,12 +44,12 @@ This plugin allows players to change their status from PvP to PvE and back again
   - Requires *togglepvp.player* to use it on yourself, and *togglepvp.admin* to use it on others
   - Aliases: **/tpvpt**, **/tpvptime** 
 
-- **/lockpvp <player> <true|false>**
+- **/lockpvp &lt;player&gt; &lt;true|false&gt;**
   - Requires *togglepvp.lock* permission
   - Allows you to lock a player in PvP or PvE mode
   - Can be used on offline players.
 
-- **/unlockpvp <player>**
+- **/unlockpvp &lt;player&gt;**
   - Also requires *togglepvp.lock*
   - Unlocks a players status and allows them to toggle again
 
