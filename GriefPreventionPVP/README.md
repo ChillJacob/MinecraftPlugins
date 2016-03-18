@@ -20,7 +20,11 @@ GriefPreventionPvP adds several new commands which enhance the claiming system.
   - This command also uses the *griefprevention.eject* node.
 
 - **/claimprotect**
-  - Makes a claim protected from damage, even from owners/builders. 
+  - Makes a claim protected from damage, even from owners/builders.
+  
+- **/removeoldclaims**
+  - Can only be run from the console
+  - Manually removes claims that should have expired, 25 at a time. Use this if the regular removal system can't keep up with the number of expired claims.
 
 ### Misc
 
