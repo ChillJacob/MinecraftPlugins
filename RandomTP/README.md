@@ -22,6 +22,9 @@ It's very important to configure this plugin, otherwise it won't work.
   - Teleport yourself or another player to a random location. 
   - Requires *randomtp.player* to teleport yourself and *randomtp.admin* to teleport someone else
   - aliases: **/tprrand, /randomtp, /tprrandom**
+  
+- **/tprw (world)**
+  - Random teleport to that world 
 
 - **/tprs**
   - Sets the starting location for the search algorithm
