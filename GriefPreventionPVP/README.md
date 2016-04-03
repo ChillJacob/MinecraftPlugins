@@ -26,6 +26,10 @@ GriefPreventionPvP adds several new commands which enhance the claiming system.
   - Can only be run from the console
   - Manually removes claims that should have expired, 25 at a time. Use this if the regular removal system can't keep up with the number of expired claims.
 
+- **/adjustaccruedclaimblocks**
+  - Used to adjust the number of claimblocks given from the game (as opposed to bonus claimblocks)
+  - requres permission *griefprevention.adjustclaimblocks*
+
 ### Misc
 
 [Download link!](https://github.com/10becja/MinecraftPlugins/raw/master/GriefPreventionPVP/GriefPrevention.jar)  
