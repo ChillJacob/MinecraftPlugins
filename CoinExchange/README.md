@@ -37,12 +37,16 @@ Right now, the `config.yml` file has nothing of importance in it.
 
 - **/reloadcoins**
   - Reloads the commands and player storage files, along with the config.
+  
+- **/spendcoins**
+   - Opens a GUI that allows users to spend their coins
    
 ### Permissions
 - *coinexchange.addcoins* : allows use of **/addcoins**
 - *coinexchange.removecoins* : allows for **/removecoins**
 - *coinexchange.viewcoins* : allows you to use **/viewcoins** on yourself
   - *coinexchange.viewcoins.others* : use **/viewcoins** on other players
+- *coinexchange.spend* : use **/spendcoins**
 - *coinexchange.admin* : allows for **/reloadcoins**
 
 [Download link!](https://github.com/10becja/MinecraftPlugins/raw/master/CoinExchange/CoinExchange.jar)  
