@@ -56,17 +56,31 @@ Really the only values you should edit in this are the `displayName`, `amount`, 
   - The `<value>` is used for determining how greatly the price can fluxuate
   - If you don't provide a display name, the plugin will use the default name of the item you are holding. However, because of how bukkit works, this might not be the correct name. For example, if you make a request for Diorite, but don't provide a display name, it will be stored as STONE. 
 
-- **/viewrequests (player)**
+- **/viewrequests**
   - Shows the current requests
   - Green requests have not been completed by you.
   - Red indicates that you've already done that request
+
+- **/listrequests (filter) [page]**
+  - Displays all available requests, 10 at a time
+  - Use `[page]` to show specific pages
+  - If you want to only see specific requests, say all requests involving the word "leaves", use the `(filter)`
+
+- **/requestdetails <id>**
+  - Gives all details related to that request
+
+- **/editrequest <id> <amount> <price> <value> (display name)**
+  - This functions very similar to **/setrequest**
+  - It allows you to update request data ingame, rather than needing to edit the backend file.
 
 - **/reloadrequests**
   - Reloads the plugins.
 
 ### Permissions
-- *ses.setrequest* : allows use of **/setrequest**
+- *ses.setrequest* : allows use of **/setrequest** and **/editrequest**
 - *ses.viewrequests* : allows use of **/viewrequests**
+- *ses.listrequests* : allows use of **/listrequests**
+- *ses.requestdetails* : allows use of **/requestdetails**
 - *ses.makesign* : allows you to create Request Boards
 - *ses.breaksign* : allows you to break Request Boards
 - *ses.admin* : allows for **/reloadrequests**
