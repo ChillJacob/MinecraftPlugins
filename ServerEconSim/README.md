@@ -50,7 +50,7 @@ Really the only values you should edit in this are the `displayName`, `amount`, 
 
 
 ### Commands:
-- **/setrequest <amount> <price> <value> (display name)**
+- **/setrequest &lt;amount&gt; &lt;price&gt; &lt;value&gt; (display name)**
   - Sets up a request for the server.
   - To use this, first hold the item you want to make a request of, the run the command
   - The `<value>` is used for determining how greatly the price can fluxuate
@@ -66,10 +66,10 @@ Really the only values you should edit in this are the `displayName`, `amount`, 
   - Use `[page]` to show specific pages
   - If you want to only see specific requests, say all requests involving the word "leaves", use the `(filter)`
 
-- **/requestdetails <id>**
+- **/requestdetails &lt;id&gt;**
   - Gives all details related to that request
 
-- **/editrequest <id> <amount> <price> <value> (display name)**
+- **/editrequest &lt;id&gt; &lt;amount&gt; &lt;price&gt; &lt;value&gt; (display name)**
   - This functions very similar to **/setrequest**
   - It allows you to update request data ingame, rather than needing to edit the backend file.
 
