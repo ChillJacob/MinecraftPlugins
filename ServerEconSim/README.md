@@ -33,7 +33,7 @@ Number of requests: 5
 Broadcast new requests: true
 ```
 
-Most are fairly self explanatory. The `Value fluxuations` list is used to fluxuate the price of a request, based on how valuable that request is (more on this later). The value will flux between -amount and +amount. For instance, if you have a request that has a base price of 25, and a value of 1, the price could fluxuate anywhere between 15 and 35 (I'm planning on changing the structure so it's a bit more clear).
+Most are fairly self explanatory. The `Value fluxuations` list is used to fluxuate the price of a request, based on how valuable that request is (more on this later). The value will flux between -amount and +amount. For instance, if you have a request that has a base price of 25, and a value of 1, the price could fluxuate anywhere between 15 and 35.
 
 ### request.yml
 This is an example of a request you might see in this file
@@ -45,16 +45,18 @@ This is an example of a request you might see in this file
     price: 25
     value: 1
     timesBought: 0
+    limit: 1
 ```
-Really the only values you should edit in this are the `displayName`, `amount`, `price`, and `value`, if you want to make manual changes. Manually editing the `item` could cause problems if you don't know what you're doing. `timesBought` is a counter to keep track of how many times that particular request has been used.
+Really the only values you should edit in this are the `displayName`, `amount`, `price`, `limit`, and `value`, if you want to make manual changes. Manually editing the `item` could cause problems if you don't know what you're doing. `timesBought` is a counter to keep track of how many times that particular request has been used.
 
 
 ### Commands:
-- **/setrequest &lt;amount&gt; &lt;price&gt; &lt;value&gt; (display name)**
+- **/setrequest &lt;amount&gt; &lt;price&gt; &lt;value&gt; &lt;limit&gr; (display name)**
   - Sets up a request for the server.
   - To use this, first hold the item you want to make a request of, the run the command
   - The `<value>` is used for determining how greatly the price can fluxuate
   - If you don't provide a display name, the plugin will use the default name of the item you are holding. However, because of how bukkit works, this might not be the correct name. For example, if you make a request for Diorite, but don't provide a display name, it will be stored as STONE. 
+  - `<limit>` is the number of times this request can be fulfilled per player in the configured time span. 
 
 - **/viewrequests**
   - Shows the current requests
@@ -69,7 +71,7 @@ Really the only values you should edit in this are the `displayName`, `amount`, 
 - **/requestdetails &lt;id&gt;**
   - Gives all details related to that request
 
-- **/editrequest &lt;id&gt; &lt;amount&gt; &lt;price&gt; &lt;value&gt; (display name)**
+- **/editrequest &lt;id&gt; &lt;amount&gt; &lt;price&gt; &lt;value&gt; &lt;limit&gr; (display name)**
   - This functions very similar to **/setrequest**
   - It allows you to update request data ingame, rather than needing to edit the backend file.
 
