@@ -36,7 +36,7 @@ TBD
   - Allows you to cancel one of your requests, or someone else's
   - Again uses the `/mcclist mine` or `/mcclist playerName`
 
-- **/mccreload**
+- **/mccadmin**
   - Reloads the config.
 
 ### Permissions
