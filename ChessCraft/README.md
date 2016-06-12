@@ -20,7 +20,7 @@ ChessCraft also uses (via a shaded Maven dependency):
 
 --------------------------------------------------
 
-[Download link!](https://github.com/10becja/MinecraftPlugins/raw/master/MinecraftClassifieds/ChessCraft.jar)  
+[Download link!](https://github.com/10becja/MinecraftPlugins/raw/master/ChessCraft/ChessCraft.jar)  
 
 [ChessCraft repository](https://github.com/10becja/ChessCraft)
 
