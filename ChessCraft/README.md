@@ -25,3 +25,5 @@ ChessCraft also uses (via a shaded Maven dependency):
 [ChessCraft repository](https://github.com/10becja/ChessCraft)
 
 Found a bug or want to request a feature? Please let me know [here!](https://github.com/10becja/ChessCraft/issues)
+
+Come play minecraft with us at [play.minecraft.dk!](minecraft.dk)
