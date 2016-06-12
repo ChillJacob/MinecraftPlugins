@@ -18,6 +18,7 @@ ChessCraft also uses (via a shaded Maven dependency):
 
 * [Chesspresso](http://www.chesspresso.org/) 
 
+--------------------------------------------------
 
 [Download link!](https://github.com/10becja/MinecraftPlugins/raw/master/MinecraftClassifieds/ChessCraft.jar)  
 
