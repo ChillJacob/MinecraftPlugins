@@ -1,3 +1,5 @@
+Please note: If you are updating from a previous verion of ChessCraft, you'll probably need to delete your config.yml and have it regenerated. Your other option is to manually update the sounds in the Effects section. Also, I haven't tested dynmap, so that probably isn't working either.
+
 # ChessCraft
 
 ChessCraft is a Bukkit plugin for playing chess on your CraftBukkit (Minecraft) server.
