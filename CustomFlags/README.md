@@ -32,6 +32,6 @@ MySafeWorld:
 
 [Download link!](https://github.com/10becja/MinecraftPlugins/raw/master/CustomFlags/CustomFlags.jar)  
 
-[CoinExchange repository](https://github.com/10becja/CustomFlags)
+[CustomFlags repository](https://github.com/10becja/CustomFlags)
 
 Found a bug or want to request a feature? Please let me know [here!](https://github.com/10becja/CustomFlags/issues)
